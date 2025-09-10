@@ -320,6 +320,8 @@ token
 
 $env:DAGSHUB_PAT="23519ac2940aab855769c067b98b978ddfe587f3"
 
+# use this
+$env:DAGSHUB_TOKEN = "23519ac2940aab855769c067b98b978ddfe587f3"
 ```
 
 

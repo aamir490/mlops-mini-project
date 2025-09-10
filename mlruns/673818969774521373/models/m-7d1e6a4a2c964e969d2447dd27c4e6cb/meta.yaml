@@ -1,0 +1,10 @@
+artifact_location: file:///E:\Campus-X\campusx_mlops\campusx_projectt\mlops-mini-project\mlruns/673818969774521373/models/m-7d1e6a4a2c964e969d2447dd27c4e6cb/artifacts
+creation_timestamp: 1757504394286
+experiment_id: '673818969774521373'
+last_updated_timestamp: 1757504399224
+model_id: m-7d1e6a4a2c964e969d2447dd27c4e6cb
+model_type: null
+name: sklearn-model
+source_run_id: 5f801cbd4b3a4a7c8dffab8481029893
+status: 2
+status_message: null
