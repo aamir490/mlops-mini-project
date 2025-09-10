@@ -92,3 +92,6 @@ target/
 .myenv/
 myenv
 .myenv
+
+# MLflow runs (optional, recommended)
+notebooks/mlruns/
