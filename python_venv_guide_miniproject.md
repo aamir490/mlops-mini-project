@@ -313,6 +313,13 @@ git push origin -u main
 pip install xgboost
 
 python E:\Campus-X\campusx_mlops\campusx_projectt\mlops-mini-project\notebooks\exp1_bow_vs_tfidf.py
+
+
+token
+23519ac2940aab855769c067b98b978ddfe587f3
+
+$env:DAGSHUB_PAT="23519ac2940aab855769c067b98b978ddfe587f3"
+
 ```
 
 
